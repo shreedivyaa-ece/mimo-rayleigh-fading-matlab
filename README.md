@@ -17,4 +17,4 @@ system operating over a Rayleigh fading channel.
 - MATLAB
 
 ## Domain
-- Wireless and Communication Systems
+- Wireless Communication Systems
